@@ -1,0 +1,1370 @@
+{
+  "Angola": {
+    "mapPath": "data/map/africa/ao/vector.svg",
+    "flagCode": "AGO",
+    "capital": "Luanda",
+    "region": "Africa"
+  },
+  "Burkina Faso": {
+    "mapPath": "data/map/africa/bf/vector.svg",
+    "flagCode": "BFA",
+    "capital": "Ouagadougou",
+    "region": "Africa"
+  },
+  "Burundi": {
+    "mapPath": "data/map/africa/bi/vector.svg",
+    "flagCode": "BDI",
+    "capital": "Bujumbura",
+    "region": "Africa"
+  },
+  "Benin": {
+    "mapPath": "data/map/africa/bj/vector.svg",
+    "flagCode": "BEN",
+    "capital": "Porto-Novo",
+    "region": "Africa"
+  },
+  "Botswana": {
+    "mapPath": "data/map/africa/bw/vector.svg",
+    "flagCode": "BWA",
+    "capital": "Gaborone",
+    "region": "Africa"
+  },
+  "Democratic Republic Congo": {
+    "mapPath": "data/map/africa/cd/vector.svg",
+    "flagCode": "COD",
+    "capital": "Kinshasa",
+    "region": "Africa"
+  },
+  "Central African Republic": {
+    "mapPath": "data/map/africa/cf/vector.svg",
+    "flagCode": "CAF",
+    "capital": "Bangui",
+    "region": "Africa"
+  },
+  "Congo": {
+    "mapPath": "data/map/africa/cg/vector.svg",
+    "flagCode": "COG",
+    "capital": "Brazzaville",
+    "region": "Africa"
+  },
+  "Côte d'Ivoire": {
+    "mapPath": "data/map/africa/ci/vector.svg",
+    "flagCode": "CIV",
+    "capital": "Yamoussoukro",
+    "region": "Africa"
+  },
+  "Cameroon": {
+    "mapPath": "data/map/africa/cm/vector.svg",
+    "flagCode": "CMR",
+    "capital": "Yaoundé",
+    "region": "Africa"
+  },
+  "Cape Verde": {
+    "mapPath": "data/map/africa/cv/vector.svg",
+    "flagCode": "CPV",
+    "capital": "Praia",
+    "region": "Africa"
+  },
+  "Djibouti": {
+    "mapPath": "data/map/africa/dj/vector.svg",
+    "flagCode": "DJI",
+    "capital": "Djibouti City",
+    "region": "Africa"
+  },
+  "Algeria": {
+    "mapPath": "data/map/africa/dz/vector.svg",
+    "flagCode": "DZA",
+    "capital": "Algiers",
+    "region": "Africa"
+  },
+  "Egypt": {
+    "mapPath": "data/map/africa/eg/vector.svg",
+    "flagCode": "EGY",
+    "capital": "Cairo",
+    "region": "Africa"
+  },
+  "Western Sahara": {
+    "mapPath": "data/map/africa/eh/vector.svg",
+    "flagCode": "ESH",
+    "capital": "Laayoune",
+    "region": "Africa"
+  },
+  "Eritrea": {
+    "mapPath": "data/map/africa/er/vector.svg",
+    "flagCode": "ERI",
+    "capital": "Asmara",
+    "region": "Africa"
+  },
+  "Ethiopia": {
+    "mapPath": "data/map/africa/et/vector.svg",
+    "flagCode": "ETH",
+    "capital": "Addis Ababa",
+    "region": "Africa"
+  },
+  "Gabon": {
+    "mapPath": "data/map/africa/ga/vector.svg",
+    "flagCode": "GAB",
+    "capital": "Libreville",
+    "region": "Africa"
+  },
+  "Ghana": {
+    "mapPath": "data/map/africa/gh/vector.svg",
+    "flagCode": "GHA",
+    "capital": "Accra",
+    "region": "Africa"
+  },
+  "Gambia": {
+    "mapPath": "data/map/africa/gm/vector.svg",
+    "flagCode": "GMB",
+    "capital": "Banjul",
+    "region": "Africa"
+  },
+  "Guinea": {
+    "mapPath": "data/map/africa/gn/vector.svg",
+    "flagCode": "GIN",
+    "capital": "Conakry",
+    "region": "Africa"
+  },
+  "Equatorial Guinea": {
+    "mapPath": "data/map/africa/gq/vector.svg",
+    "flagCode": "GNQ",
+    "capital": "Malabo",
+    "region": "Africa"
+  },
+  "Guinea-Bissau": {
+    "mapPath": "data/map/africa/gw/vector.svg",
+    "flagCode": "GNB",
+    "capital": "Bissau",
+    "region": "Africa"
+  },
+  "Kenya": {
+    "mapPath": "data/map/africa/ke/vector.svg",
+    "flagCode": "KEN",
+    "capital": "Nairobi",
+    "region": "Africa"
+  },
+  "Comoros": {
+    "mapPath": "data/map/africa/km/vector.svg",
+    "flagCode": "COM",
+    "capital": "Moroni",
+    "region": "Africa"
+  },
+  "Liberia": {
+    "mapPath": "data/map/africa/lr/vector.svg",
+    "flagCode": "LBR",
+    "capital": "Monrovia",
+    "region": "Africa"
+  },
+  "Lesotho": {
+    "mapPath": "data/map/africa/ls/vector.svg",
+    "flagCode": "LSO",
+    "capital": "Maseru",
+    "region": "Africa"
+  },
+  "Libya": {
+    "mapPath": "data/map/africa/ly/vector.svg",
+    "flagCode": "LBY",
+    "capital": "Tripoli",
+    "region": "Africa"
+  },
+  "Morocco": {
+    "mapPath": "data/map/africa/ma/vector.svg",
+    "flagCode": "MAR",
+    "capital": "Rabat",
+    "region": "Africa"
+  },
+  "Madagascar": {
+    "mapPath": "data/map/africa/mg/vector.svg",
+    "flagCode": "MDG",
+    "capital": "Antananarivo",
+    "region": "Africa"
+  },
+  "Mali": {
+    "mapPath": "data/map/africa/ml/vector.svg",
+    "flagCode": "MLI",
+    "capital": "Bamako",
+    "region": "Africa"
+  },
+  "Mauritania": {
+    "mapPath": "data/map/africa/mr/vector.svg",
+    "flagCode": "MRT",
+    "capital": "Nouakchott",
+    "region": "Africa"
+  },
+  "Mauritius": {
+    "mapPath": "data/map/africa/mu/vector.svg",
+    "flagCode": "MUS",
+    "capital": "Port Louis",
+    "region": "Africa"
+  },
+  "Malawi": {
+    "mapPath": "data/map/africa/mw/vector.svg",
+    "flagCode": "MWI",
+    "capital": "Lilongwe",
+    "region": "Africa"
+  },
+  "Mozambique": {
+    "mapPath": "data/map/africa/mz/vector.svg",
+    "flagCode": "MOZ",
+    "capital": "Maputo",
+    "region": "Africa"
+  },
+  "Namibia": {
+    "mapPath": "data/map/africa/na/vector.svg",
+    "flagCode": "NAM",
+    "capital": "Windhoek",
+    "region": "Africa"
+  },
+  "Niger": {
+    "mapPath": "data/map/africa/ne/vector.svg",
+    "flagCode": "NER",
+    "capital": "Niamey",
+    "region": "Africa"
+  },
+  "Nigeria": {
+    "mapPath": "data/map/africa/ng/vector.svg",
+    "flagCode": "NGA",
+    "capital": "Abuja",
+    "region": "Africa"
+  },
+  "Réunion": {
+    "mapPath": "data/map/africa/re/vector.svg",
+    "flagCode": "REU",
+    "capital": "Saint-Denis",
+    "region": "Africa"
+  },
+  "Rwanda": {
+    "mapPath": "data/map/africa/rw/vector.svg",
+    "flagCode": "RWA",
+    "capital": "Kigali",
+    "region": "Africa"
+  },
+  "Seychelles": {
+    "mapPath": "data/map/africa/sc/vector.svg",
+    "flagCode": "SYC",
+    "capital": "Victoria",
+    "region": "Africa"
+  },
+  "Sudan": {
+    "mapPath": "data/map/africa/sd/vector.svg",
+    "flagCode": "SDN",
+    "capital": "Khartoum",
+    "region": "Africa"
+  },
+  "Saint Helena, Ascension and Tristan da Cunha": {
+    "mapPath": "data/map/africa/sh/vector.svg",
+    "flagCode": "SHN",
+    "capital": "Jamestown",
+    "region": "Africa"
+  },
+  "Sierra Leone": {
+    "mapPath": "data/map/africa/sl/vector.svg",
+    "flagCode": "SLE",
+    "capital": "Freetown",
+    "region": "Africa"
+  },
+  "Senegal": {
+    "mapPath": "data/map/africa/sn/vector.svg",
+    "flagCode": "SEN",
+    "capital": "Dakar",
+    "region": "Africa"
+  },
+  "Somalia": {
+    "mapPath": "data/map/africa/so/vector.svg",
+    "flagCode": "SOM",
+    "capital": "Mogadishu",
+    "region": "Africa"
+  },
+  "South Sudan": {
+    "mapPath": "data/map/africa/ss/vector.svg",
+    "flagCode": "SSD",
+    "capital": "Juba",
+    "region": "Africa"
+  },
+  "Sao Tome and Principe": {
+    "mapPath": "data/map/africa/st/vector.svg",
+    "flagCode": "STP",
+    "capital": "São Tomé",
+    "region": "Africa"
+  },
+  "Swaziland": {
+    "mapPath": "data/map/africa/sz/vector.svg",
+    "flagCode": "SWZ",
+    "capital": "Mbabane",
+    "region": "Africa"
+  },
+  "Chad": {
+    "mapPath": "data/map/africa/td/vector.svg",
+    "flagCode": "TCD",
+    "capital": "N'Djamena",
+    "region": "Africa"
+  },
+  "Togo": {
+    "mapPath": "data/map/africa/tg/vector.svg",
+    "flagCode": "TGO",
+    "capital": "Lomé",
+    "region": "Africa"
+  },
+  "Tunisia": {
+    "mapPath": "data/map/africa/tn/vector.svg",
+    "flagCode": "TUN",
+    "capital": "Tunis",
+    "region": "Africa"
+  },
+  "Tanzania": {
+    "mapPath": "data/map/africa/tz/vector.svg",
+    "flagCode": "TZA",
+    "capital": "Dodoma",
+    "region": "Africa"
+  },
+  "Uganda": {
+    "mapPath": "data/map/africa/ug/vector.svg",
+    "flagCode": "UGA",
+    "capital": "Kampala",
+    "region": "Africa"
+  },
+  "South Africa": {
+    "mapPath": "data/map/africa/za/vector.svg",
+    "flagCode": "ZAF",
+    "capital": "Pretoria",
+    "region": "Africa"
+  },
+  "Zambia": {
+    "mapPath": "data/map/africa/zm/vector.svg",
+    "flagCode": "ZMB",
+    "capital": "Lusaka",
+    "region": "Africa"
+  },
+  "Zimbabwe": {
+    "mapPath": "data/map/africa/zw/vector.svg",
+    "flagCode": "ZWE",
+    "capital": "Harare",
+    "region": "Africa"
+  },
+  "Afghanistan": {
+    "mapPath": "data/map/asia/af/vector.svg",
+    "flagCode": "AFG",
+    "capital": "Kabul",
+    "region": "Asia"
+  },
+  "Armenia": {
+    "mapPath": "data/map/asia/am/vector.svg",
+    "flagCode": "ARM",
+    "capital": "Yerevan",
+    "region": "Asia"
+  },
+  "Azerbaijan": {
+    "mapPath": "data/map/asia/az/vector.svg",
+    "flagCode": "AZE",
+    "capital": "Baku",
+    "region": "Asia"
+  },
+  "Bangladesh": {
+    "mapPath": "data/map/asia/bd/vector.svg",
+    "flagCode": "BGD",
+    "capital": "Dhaka",
+    "region": "Asia"
+  },
+  "Bahrain": {
+    "mapPath": "data/map/asia/bh/vector.svg",
+    "flagCode": "BHR",
+    "capital": "Manama",
+    "region": "Asia"
+  },
+  "Brunei Darussalam": {
+    "mapPath": "data/map/asia/bn/vector.svg",
+    "flagCode": "BRN",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia"
+  },
+  "Bhutan": {
+    "mapPath": "data/map/asia/bt/vector.svg",
+    "flagCode": "BTN",
+    "capital": "Thimphu",
+    "region": "Asia"
+  },
+  "China": {
+    "mapPath": "data/map/asia/cn/vector.svg",
+    "flagCode": "CHN",
+    "capital": "Beijing",
+    "region": "Asia"
+  },
+  "Cyprus": {
+    "mapPath": "data/map/asia/ct/vector.svg",
+    "flagCode": "CYP",
+    "capital": "Nicosia",
+    "region": "Asia"
+  },
+  "Georgia": {
+    "mapPath": "data/map/asia/ge/vector.svg",
+    "flagCode": "GEO",
+    "capital": "Tbilisi",
+    "region": "Asia"
+  },
+  "Hong Kong": {
+    "mapPath": "data/map/asia/hk/vector.svg",
+    "flagCode": "HKG",
+    "capital": "Hong Kong",
+    "region": "Asia"
+  },
+  "Indonesia": {
+    "mapPath": "data/map/asia/id/vector.svg",
+    "flagCode": "IDN",
+    "capital": "Jakarta",
+    "region": "Asia"
+  },
+  "Israel": {
+    "mapPath": "data/map/asia/il/vector.svg",
+    "flagCode": "ISR",
+    "capital": "Jerusalem",
+    "region": "Asia"
+  },
+  "India": {
+    "mapPath": "data/map/asia/in/vector.svg",
+    "flagCode": "IND",
+    "capital": "New Delhi",
+    "region": "Asia"
+  },
+  "Iraq": {
+    "mapPath": "data/map/asia/iq/vector.svg",
+    "flagCode": "IRQ",
+    "capital": "Baghdad",
+    "region": "Asia"
+  },
+  "Iran": {
+    "mapPath": "data/map/asia/ir/vector.svg",
+    "flagCode": "IRN",
+    "capital": "Tehran",
+    "region": "Asia"
+  },
+  "Jordan": {
+    "mapPath": "data/map/asia/jo/vector.svg",
+    "flagCode": "JOR",
+    "capital": "Amman",
+    "region": "Asia"
+  },
+  "Japan": {
+    "mapPath": "data/map/asia/jp/vector.svg",
+    "flagCode": "JPN",
+    "capital": "Tokyo",
+    "region": "Asia"
+  },
+  "Kazakhstan": {
+    "mapPath": "data/map/asia/kz/vector.svg",
+    "flagCode": "KAZ",
+    "capital": "Astana",
+    "region": "Asia"
+  },
+  "Kyrgyzstan": {
+    "mapPath": "data/map/asia/kg/vector.svg",
+    "flagCode": "KGZ",
+    "capital": "Bishkek",
+    "region": "Asia"
+  },
+  "Cambodia": {
+    "mapPath": "data/map/asia/kh/vector.svg",
+    "flagCode": "KHM",
+    "capital": "Phnom Penh",
+    "region": "Asia"
+  },
+  "Korea, North": {
+    "mapPath": "data/map/asia/kp/vector.svg",
+    "flagCode": "PRK",
+    "capital": "Pyongyang",
+    "region": "Asia"
+  },
+  "Korea, South": {
+    "mapPath": "data/map/asia/kr/vector.svg",
+    "flagCode": "KOR",
+    "capital": "Seoul",
+    "region": "Asia"
+  },
+  "Kuwait": {
+    "mapPath": "data/map/asia/kw/vector.svg",
+    "flagCode": "KWT",
+    "capital": "Kuwait City",
+    "region": "Asia"
+  },
+  "Lao People's Democratic Republic": {
+    "mapPath": "data/map/asia/la/vector.svg",
+    "flagCode": "LAO",
+    "capital": "Vientiane",
+    "region": "Asia"
+  },
+  "Lebanon": {
+    "mapPath": "data/map/asia/lb/vector.svg",
+    "flagCode": "LBN",
+    "capital": "Beirut",
+    "region": "Asia"
+  },
+  "Sri Lanka": {
+    "mapPath": "data/map/asia/lk/vector.svg",
+    "flagCode": "LKA",
+    "capital": "Colombo",
+    "region": "Asia"
+  },
+  "Myanmar": {
+    "mapPath": "data/map/asia/mm/vector.svg",
+    "flagCode": "MMR",
+    "capital": "Naypyidaw",
+    "region": "Asia"
+  },
+  "Mongolia": {
+    "mapPath": "data/map/asia/mn/vector.svg",
+    "flagCode": "MNG",
+    "capital": "Ulaanbaatar",
+    "region": "Asia"
+  },
+  "Macao": {
+    "mapPath": "data/map/asia/mo/vector.svg",
+    "flagCode": "MAC",
+    "capital": "Macao",
+    "region": "Asia"
+  },
+  "Maldives": {
+    "mapPath": "data/map/asia/mv/vector.svg",
+    "flagCode": "MDV",
+    "capital": "Malé",
+    "region": "Asia"
+  },
+  "Malaysia": {
+    "mapPath": "data/map/asia/my/vector.svg",
+    "flagCode": "MYS",
+    "capital": "Kuala Lumpur",
+    "region": "Asia"
+  },
+  "Nepal": {
+    "mapPath": "data/map/asia/np/vector.svg",
+    "flagCode": "NPL",
+    "capital": "Kathmandu",
+    "region": "Asia"
+  },
+  "Oman": {
+    "mapPath": "data/map/asia/om/vector.svg",
+    "flagCode": "OMN",
+    "capital": "Muscat",
+    "region": "Asia"
+  },
+  "Philippines": {
+    "mapPath": "data/map/asia/ph/vector.svg",
+    "flagCode": "PHL",
+    "capital": "Manila",
+    "region": "Asia"
+  },
+  "Pakistan": {
+    "mapPath": "data/map/asia/pk/vector.svg",
+    "flagCode": "PAK",
+    "capital": "Islamabad",
+    "region": "Asia"
+  },
+  "Qatar": {
+    "mapPath": "data/map/asia/qa/vector.svg",
+    "flagCode": "QAT",
+    "capital": "Doha",
+    "region": "Asia"
+  },
+  "Saudi Arabia": {
+    "mapPath": "data/map/asia/sa/vector.svg",
+    "flagCode": "SAU",
+    "capital": "Riyadh",
+    "region": "Asia"
+  },
+  "Singapore": {
+    "mapPath": "data/map/asia/sg/vector.svg",
+    "flagCode": "SGP",
+    "capital": "Singapore",
+    "region": "Asia"
+  },
+  "Syria": {
+    "mapPath": "data/map/asia/sy/vector.svg",
+    "flagCode": "SYR",
+    "capital": "Damascus",
+    "region": "Asia"
+  },
+  "Thailand": {
+    "mapPath": "data/map/asia/th/vector.svg",
+    "flagCode": "THA",
+    "capital": "Bangkok",
+    "region": "Asia"
+  },
+  "Tajikistan": {
+    "mapPath": "data/map/asia/tj/vector.svg",
+    "flagCode": "TJK",
+    "capital": "Dushanbe",
+    "region": "Asia"
+  },
+  "Timor-Leste": {
+    "mapPath": "data/map/asia/tl/vector.svg",
+    "flagCode": "TLS",
+    "capital": "Dili",
+    "region": "Asia"
+  },
+  "Turkmenistan": {
+    "mapPath": "data/map/asia/tm/vector.svg",
+    "flagCode": "TKM",
+    "capital": "Ashgabat",
+    "region": "Asia"
+  },
+  "Turkey": {
+    "mapPath": "data/map/asia/tr/vector.svg",
+    "flagCode": "TUR",
+    "capital": "Ankara",
+    "region": "Asia"
+  },
+  "Taiwan": {
+    "mapPath": "data/map/asia/tw/vector.svg",
+    "flagCode": "TWN",
+    "capital": "Taipei",
+    "region": "Asia"
+  },
+  "Uzbekistan": {
+    "mapPath": "data/map/asia/uz/vector.svg",
+    "flagCode": "UZB",
+    "capital": "Tashkent",
+    "region": "Asia"
+  },
+  "Vietnam": {
+    "mapPath": "data/map/asia/vn/vector.svg",
+    "flagCode": "VNM",
+    "capital": "Hanoi",
+    "region": "Asia"
+  },
+  "Yemen": {
+    "mapPath": "data/map/asia/ye/vector.svg",
+    "flagCode": "YEM",
+    "capital": "Sana'a",
+    "region": "Asia"
+  },
+  "Andorra": {
+    "mapPath": "data/map/europe/ad/vector.svg",
+    "flagCode": "AND",
+    "capital": "Andorra la Vella",
+    "region": "Europe"
+  },
+  "Albania": {
+    "mapPath": "data/map/europe/al/vector.svg",
+    "flagCode": "ALB",
+    "capital": "Tirana",
+    "region": "Europe"
+  },
+  "Austria": {
+    "mapPath": "data/map/europe/at/vector.svg",
+    "flagCode": "AUT",
+    "capital": "Vienna",
+    "region": "Europe"
+  },
+  "Aland Islands": {
+    "mapPath": "data/map/europe/ax/vector.svg",
+    "flagCode": "ALA",
+    "capital": "Mariehamn",
+    "region": "Europe"
+  },
+  "Bosnia and Herzegovina": {
+    "mapPath": "data/map/europe/ba/vector.svg",
+    "flagCode": "BIH",
+    "capital": "Sarajevo",
+    "region": "Europe"
+  },
+  "Belgium": {
+    "mapPath": "data/map/europe/be/vector.svg",
+    "flagCode": "BEL",
+    "capital": "Brussels",
+    "region": "Europe"
+  },
+  "Bulgaria": {
+    "mapPath": "data/map/europe/bg/vector.svg",
+    "flagCode": "BGR",
+    "capital": "Sofia",
+    "region": "Europe"
+  },
+  "Belarus": {
+    "mapPath": "data/map/europe/by/vector.svg",
+    "flagCode": "BLR",
+    "capital": "Minsk",
+    "region": "Europe"
+  },
+  "Switzerland": {
+    "mapPath": "data/map/europe/ch/vector.svg",
+    "flagCode": "CHE",
+    "capital": "Bern",
+    "region": "Europe"
+  },
+  "Czech Republic": {
+    "mapPath": "data/map/europe/cz/vector.svg",
+    "flagCode": "CZE",
+    "capital": "Prague",
+    "region": "Europe"
+  },
+  "Germany": {
+    "mapPath": "data/map/europe/de/vector.svg",
+    "flagCode": "DEU",
+    "capital": "Berlin",
+    "region": "Europe"
+  },
+  "Denmark": {
+    "mapPath": "data/map/europe/dk/vector.svg",
+    "flagCode": "DNK",
+    "capital": "Copenhagen",
+    "region": "Europe"
+  },
+  "Estonia": {
+    "mapPath": "data/map/europe/ee/vector.svg",
+    "flagCode": "EST",
+    "capital": "Tallinn",
+    "region": "Europe"
+  },
+  "Spain": {
+    "mapPath": "data/map/europe/es/vector.svg",
+    "flagCode": "ESP",
+    "capital": "Madrid",
+    "region": "Europe"
+  },
+  "Finland": {
+    "mapPath": "data/map/europe/fi/vector.svg",
+    "flagCode": "FIN",
+    "capital": "Helsinki",
+    "region": "Europe"
+  },
+  "France": {
+    "mapPath": "data/map/europe/fr/vector.svg",
+    "flagCode": "FRA",
+    "capital": "Paris",
+    "region": "Europe"
+  },
+  "Faroe Islands": {
+    "mapPath": "data/map/europe/fo/vector.svg",
+    "flagCode": "FRO",
+    "capital": "Tórshavn",
+    "region": "Europe"
+  },
+  "United Kingdom": {
+    "mapPath": "data/map/europe/gb/vector.svg",
+    "flagCode": "GBR",
+    "capital": "London",
+    "region": "Europe"
+  },
+  "Guernsey": {
+    "mapPath": "data/map/europe/gg/vector.svg",
+    "flagCode": "GGY",
+    "capital": "St. Peter Port",
+    "region": "Europe"
+  },
+  "Gibraltar": {
+    "mapPath": "data/map/europe/gi/vector.svg",
+    "flagCode": "GIB",
+    "capital": "Gibraltar",
+    "region": "Europe"
+  },
+  "Greece": {
+    "mapPath": "data/map/europe/gr/vector.svg",
+    "flagCode": "GRC",
+    "capital": "Athens",
+    "region": "Europe"
+  },
+  "Croatia": {
+    "mapPath": "data/map/europe/hr/vector.svg",
+    "flagCode": "HRV",
+    "capital": "Zagreb",
+    "region": "Europe"
+  },
+  "Hungary": {
+    "mapPath": "data/map/europe/hu/vector.svg",
+    "flagCode": "HUN",
+    "capital": "Budapest",
+    "region": "Europe"
+  },
+  "Ireland": {
+    "mapPath": "data/map/europe/ie/vector.svg",
+    "flagCode": "IRL",
+    "capital": "Dublin",
+    "region": "Europe"
+  },
+  "Isle of Man": {
+    "mapPath": "data/map/europe/im/vector.svg",
+    "flagCode": "IMN",
+    "capital": "Douglas",
+    "region": "Europe"
+  },
+  "Iceland": {
+    "mapPath": "data/map/europe/is/vector.svg",
+    "flagCode": "ISL",
+    "capital": "Reykjavík",
+    "region": "Europe"
+  },
+  "Italy": {
+    "mapPath": "data/map/europe/it/vector.svg",
+    "flagCode": "ITA",
+    "capital": "Rome",
+    "region": "Europe"
+  },
+  "Liechtenstein": {
+    "mapPath": "data/map/europe/li/vector.svg",
+    "flagCode": "LIE",
+    "capital": "Vaduz",
+    "region": "Europe"
+  },
+  "Lithuania": {
+    "mapPath": "data/map/europe/lt/vector.svg",
+    "flagCode": "LTU",
+    "capital": "Vilnius",
+    "region": "Europe"
+  },
+  "Luxembourg": {
+    "mapPath": "data/map/europe/lu/vector.svg",
+    "flagCode": "LUX",
+    "capital": "Luxembourg City",
+    "region": "Europe"
+  },
+  "Latvia": {
+    "mapPath": "data/map/europe/lv/vector.svg",
+    "flagCode": "LVA",
+    "capital": "Riga",
+    "region": "Europe"
+  },
+  "Monaco": {
+    "mapPath": "data/map/europe/mc/vector.svg",
+    "flagCode": "MCO",
+    "capital": "Monaco",
+    "region": "Europe"
+  },
+  "Moldova": {
+    "mapPath": "data/map/europe/md/vector.svg",
+    "flagCode": "MDA",
+    "capital": "Chisinau",
+    "region": "Europe"
+  },
+  "Montenegro": {
+    "mapPath": "data/map/europe/me/vector.svg",
+    "flagCode": "MNE",
+    "capital": "Podgorica",
+    "region": "Europe"
+  },
+  "Macedonia": {
+    "mapPath": "data/map/europe/mk/vector.svg",
+    "flagCode": "MKD",
+    "capital": "Skopje",
+    "region": "Europe"
+  },
+  "Malta": {
+    "mapPath": "data/map/europe/mt/vector.svg",
+    "flagCode": "MLT",
+    "capital": "Valletta",
+    "region": "Europe"
+  },
+  "Netherlands": {
+    "mapPath": "data/map/europe/nl/vector.svg",
+    "flagCode": "NLD",
+    "capital": "Amsterdam",
+    "region": "Europe"
+  },
+  "Norway": {
+    "mapPath": "data/map/europe/no/vector.svg",
+    "flagCode": "NOR",
+    "capital": "Oslo",
+    "region": "Europe"
+  },
+  "Poland": {
+    "mapPath": "data/map/europe/pl/vector.svg",
+    "flagCode": "POL",
+    "capital": "Warsaw",
+    "region": "Europe"
+  },
+  "Portugal": {
+    "mapPath": "data/map/europe/pt/vector.svg",
+    "flagCode": "PRT",
+    "capital": "Lisbon",
+    "region": "Europe"
+  },
+  "Romania": {
+    "mapPath": "data/map/europe/ro/vector.svg",
+    "flagCode": "ROU",
+    "capital": "Bucharest",
+    "region": "Europe"
+  },
+  "Serbia": {
+    "mapPath": "data/map/europe/rs/vector.svg",
+    "flagCode": "SRB",
+    "capital": "Belgrade",
+    "region": "Europe"
+  },
+  "Sweden": {
+    "mapPath": "data/map/europe/se/vector.svg",
+    "flagCode": "SWE",
+    "capital": "Stockholm",
+    "region": "Europe"
+  },
+  "Slovenia": {
+    "mapPath": "data/map/europe/si/vector.svg",
+    "flagCode": "SVN",
+    "capital": "Ljubljana",
+    "region": "Europe"
+  },
+  "Svalbard and Jan Mayen": {
+    "mapPath": "data/map/europe/sj/vector.svg",
+    "flagCode": "SJM",
+    "capital": "Longyearbyen",
+    "region": "Europe"
+  },
+  "Slovakia": {
+    "mapPath": "data/map/europe/sk/vector.svg",
+    "flagCode": "SVK",
+    "capital": "Bratislava",
+    "region": "Europe"
+  },
+  "San Marino": {
+    "mapPath": "data/map/europe/sm/vector.svg",
+    "flagCode": "SMR",
+    "capital": "City of San Marino",
+    "region": "Europe"
+  },
+  "Ukraine": {
+    "mapPath": "data/map/europe/ua/vector.svg",
+    "flagCode": "UKR",
+    "capital": "Kyiv",
+    "region": "Europe"
+  },
+  "Vatican City State": {
+    "mapPath": "data/map/europe/va/vector.svg",
+    "flagCode": "VAT",
+    "capital": "Vatican City",
+    "region": "Europe"
+  },
+  "Antigua and Barbuda": {
+    "mapPath": "data/map/namerica/ag/vector.svg",
+    "flagCode": "ATG",
+    "capital": "Saint John's",
+    "region": "namerica"
+  },
+  "Anguilla": {
+    "mapPath": "data/map/namerica/ai/vector.svg",
+    "flagCode": "AIA",
+    "capital": "The Valley",
+    "region": "namerica"
+  },
+  "Aruba": {
+    "mapPath": "data/map/namerica/aw/vector.svg",
+    "flagCode": "ABW",
+    "capital": "Oranjestad",
+    "region": "namerica"
+  },
+  "Barbados": {
+    "mapPath": "data/map/namerica/bb/vector.svg",
+    "flagCode": "BRB",
+    "capital": "Bridgetown",
+    "region": "namerica"
+  },
+  "Saint Barthélemy": {
+    "mapPath": "data/map/namerica/bl/vector.svg",
+    "flagCode": "BLM",
+    "capital": "Gustavia",
+    "region": "namerica"
+  },
+  "Bermuda": {
+    "mapPath": "data/map/namerica/bm/vector.svg",
+    "flagCode": "BMU",
+    "capital": "Hamilton",
+    "region": "namerica"
+  },
+  "Bonaire Sint Eustatius and Saba": {
+    "mapPath": "data/map/namerica/bq/vector.svg",
+    "flagCode": "BES",
+    "capital": "Kralendijk",
+    "region": "namerica"
+  },
+  "Bahamas": {
+    "mapPath": "data/map/namerica/bs/vector.svg",
+    "flagCode": "BHS",
+    "capital": "Nassau",
+    "region": "namerica"
+  },
+  "Belize": {
+    "mapPath": "data/map/namerica/bz/vector.svg",
+    "flagCode": "BLZ",
+    "capital": "Belmopan",
+    "region": "namerica"
+  },
+  "Canada": {
+    "mapPath": "data/map/namerica/ca/vector.svg",
+    "flagCode": "CAN",
+    "capital": "Ottawa",
+    "region": "namerica"
+  },
+  "Costa Rica": {
+    "mapPath": "data/map/namerica/cr/vector.svg",
+    "flagCode": "CRI",
+    "capital": "San José",
+    "region": "namerica"
+  },
+  "Cuba": {
+    "mapPath": "data/map/namerica/cu/vector.svg",
+    "flagCode": "CUB",
+    "capital": "Havana",
+    "region": "namerica"
+  },
+  "Curaçao": {
+    "mapPath": "data/map/namerica/cw/vector.svg",
+    "flagCode": "CUW",
+    "capital": "Willemstad",
+    "region": "namerica"
+  },
+  "Dominica": {
+    "mapPath": "data/map/namerica/dm/vector.svg",
+    "flagCode": "DMA",
+    "capital": "Roseau",
+    "region": "namerica"
+  },
+  "Dominican Republic": {
+    "mapPath": "data/map/namerica/do/vector.svg",
+    "flagCode": "DOM",
+    "capital": "Santo Domingo",
+    "region": "namerica"
+  },
+  "Grenada": {
+    "mapPath": "data/map/namerica/gd/vector.svg",
+    "flagCode": "GRD",
+    "capital": "Saint George's",
+    "region": "namerica"
+  },
+  "Greenland": {
+    "mapPath": "data/map/namerica/gl/vector.svg",
+    "flagCode": "GRL",
+    "capital": "Nuuk",
+    "region": "namerica"
+  },
+  "Guadeloupe": {
+    "mapPath": "data/map/namerica/gp/vector.svg",
+    "flagCode": "GLP",
+    "capital": "Basse-Terre",
+    "region": "namerica"
+  },
+  "Guatemala": {
+    "mapPath": "data/map/namerica/gt/vector.svg",
+    "flagCode": "GTM",
+    "capital": "Guatemala City",
+    "region": "namerica"
+  },
+  "Honduras": {
+    "mapPath": "data/map/namerica/hn/vector.svg",
+    "flagCode": "HND",
+    "capital": "Tegucigalpa",
+    "region": "namerica"
+  },
+  "Haiti": {
+    "mapPath": "data/map/namerica/ht/vector.svg",
+    "flagCode": "HTI",
+    "capital": "Port-au-Prince",
+    "region": "namerica"
+  },
+  "Jamaica": {
+    "mapPath": "data/map/namerica/jm/vector.svg",
+    "flagCode": "JAM",
+    "capital": "Kingston",
+    "region": "namerica"
+  },
+  "Saint Kitts and Nevis": {
+    "mapPath": "data/map/namerica/kn/vector.svg",
+    "flagCode": "KNA",
+    "capital": "Basseterre",
+    "region": "namerica"
+  },
+  "Cayman Islands": {
+    "mapPath": "data/map/namerica/ky/vector.svg",
+    "flagCode": "CYM",
+    "capital": "George Town",
+    "region": "namerica"
+  },
+  "Saint Lucia": {
+    "mapPath": "data/map/namerica/lc/vector.svg",
+    "flagCode": "LCA",
+    "capital": "Castries",
+    "region": "namerica"
+  },
+  "Saint Martin (French part)": {
+    "mapPath": "data/map/namerica/mf/vector.svg",
+    "flagCode": "MAF",
+    "capital": "Marigot",
+    "region": "namerica"
+  },
+  "Martinique": {
+    "mapPath": "data/map/namerica/mq/vector.svg",
+    "flagCode": "MTQ",
+    "capital": "Fort-de-France",
+    "region": "namerica"
+  },
+  "Montserrat": {
+    "mapPath": "data/map/namerica/ms/vector.svg",
+    "flagCode": "MSR",
+    "capital": "Plymouth",
+    "region": "namerica"
+  },
+  "Mexico": {
+    "mapPath": "data/map/namerica/mx/vector.svg",
+    "flagCode": "MEX",
+    "capital": "Mexico City",
+    "region": "namerica"
+  },
+  "Panama": {
+    "mapPath": "data/map/namerica/pa/vector.svg",
+    "flagCode": "PAN",
+    "capital": "Panama City",
+    "region": "namerica"
+  },
+  "Saint Pierre and Miquelon": {
+    "mapPath": "data/map/namerica/pm/vector.svg",
+    "flagCode": "SPM",
+    "capital": "Saint-Pierre",
+    "region": "namerica"
+  },
+  "Puerto Rico": {
+    "mapPath": "data/map/namerica/pr/vector.svg",
+    "flagCode": "PRI",
+    "capital": "San Juan",
+    "region": "namerica"
+  },
+  "El Salvador": {
+    "mapPath": "data/map/namerica/sv/vector.svg",
+    "flagCode": "SLV",
+    "capital": "San Salvador",
+    "region": "namerica"
+  },
+  "Sint Maarten": {
+    "mapPath": "data/map/namerica/sx/vector.svg",
+    "flagCode": "SXM",
+    "capital": "Philipsburg",
+    "region": "namerica"
+  },
+  "Turks and Caicos Islands": {
+    "mapPath": "data/map/namerica/tc/vector.svg",
+    "flagCode": "TCA",
+    "capital": "Cockburn Town",
+    "region": "namerica"
+  },
+  "Trinidad and Tobago": {
+    "mapPath": "data/map/namerica/tt/vector.svg",
+    "flagCode": "TTO",
+    "capital": "Port of Spain",
+    "region": "namerica"
+  },
+  "United States": {
+    "mapPath": "data/map/namerica/us/vector.svg",
+    "flagCode": "USA",
+    "capital": "Washington, D.C.",
+    "region": "namerica"
+  },
+  "Saint Vincent and the Grenadines": {
+    "mapPath": "data/map/namerica/vc/vector.svg",
+    "flagCode": "VCT",
+    "capital": "Kingstown",
+    "region": "namerica"
+  },
+  "Virgin Islands - British": {
+    "mapPath": "data/map/namerica/vg/vector.svg",
+    "flagCode": "VGB",
+    "capital": "Road Town",
+    "region": "namerica"
+  },
+  "Virgin Islands US": {
+    "mapPath": "data/map/namerica/vi/vector.svg",
+    "flagCode": "VIR",
+    "capital": "Charlotte Amalie",
+    "region": "namerica"
+  },
+  "Argentina": {
+    "mapPath": "data/map/samerica/ar/vector.svg",
+    "flagCode": "ARG",
+    "capital": "Buenos Aires",
+    "region": "samerica"
+  },
+  "Bolivia": {
+    "mapPath": "data/map/samerica/bo/vector.svg",
+    "flagCode": "BOL",
+    "capital": "Sucre",
+    "region": "samerica"
+  },
+  "Brazil": {
+    "mapPath": "data/map/samerica/br/vector.svg",
+    "flagCode": "BRA",
+    "capital": "Brasília",
+    "region": "samerica"
+  },
+  "Chile": {
+    "mapPath": "data/map/samerica/cl/vector.svg",
+    "flagCode": "CHL",
+    "capital": "Santiago",
+    "region": "samerica"
+  },
+  "Colombia": {
+    "mapPath": "data/map/samerica/co/vector.svg",
+    "flagCode": "COL",
+    "capital": "Bogotá",
+    "region": "samerica"
+  },
+  "Ecuador": {
+    "mapPath": "data/map/samerica/ec/vector.svg",
+    "flagCode": "ECU",
+    "capital": "Quito",
+    "region": "samerica"
+  },
+  "Falkland Islands": {
+    "mapPath": "data/map/samerica/fk/vector.svg",
+    "flagCode": "FLK",
+    "capital": "Stanley",
+    "region": "samerica"
+  },
+  "French Guiana": {
+    "mapPath": "data/map/samerica/gf/vector.svg",
+    "flagCode": "GUF",
+    "capital": "Cayenne",
+    "region": "samerica"
+  },
+  "Guyana": {
+    "mapPath": "data/map/samerica/gy/vector.svg",
+    "flagCode": "GUY",
+    "capital": "Georgetown",
+    "region": "samerica"
+  },
+  "Peru": {
+    "mapPath": "data/map/samerica/pe/vector.svg",
+    "flagCode": "PER",
+    "capital": "Lima",
+    "region": "samerica"
+  },
+  "Paraguay": {
+    "mapPath": "data/map/samerica/py/vector.svg",
+    "flagCode": "PRY",
+    "capital": "Asunción",
+    "region": "samerica"
+  },
+  "Uruguay": {
+    "mapPath": "data/map/samerica/uy/vector.svg",
+    "flagCode": "URY",
+    "capital": "Montevideo",
+    "region": "samerica"
+  },
+  "Venezuela": {
+    "mapPath": "data/map/samerica/ve/vector.svg",
+    "flagCode": "VEN",
+    "capital": "Caracas",
+    "region": "samerica"
+  },
+  "American Samoa": {
+    "mapPath": "data/map/oceania/as/vector.svg",
+    "flagCode": "ASM",
+    "capital": "Pago Pago",
+    "region": "oceania"
+  },
+  "Australia": {
+    "mapPath": "data/map/oceania/au/vector.svg",
+    "flagCode": "AUS",
+    "capital": "Canberra",
+    "region": "oceania"
+  },
+  "Cook Islands": {
+    "mapPath": "data/map/oceania/ck/vector.svg",
+    "flagCode": "COK",
+    "capital": "Avarua",
+    "region": "oceania"
+  },
+  "Fiji": {
+    "mapPath": "data/map/oceania/fj/vector.svg",
+    "flagCode": "FJI",
+    "capital": "Suva",
+    "region": "oceania"
+  },
+  "Guam": {
+    "mapPath": "data/map/oceania/gu/vector.svg",
+    "flagCode": "GUM",
+    "capital": "Hagåtña",
+    "region": "oceania"
+  },
+  "Kiribati": {
+    "mapPath": "data/map/oceania/ki/vector.svg",
+    "flagCode": "KIR",
+    "capital": "Tarawa",
+    "region": "oceania"
+  },
+  "Norfolk Island": {
+    "mapPath": "data/map/oceania/nf/vector.svg",
+    "flagCode": "NFK",
+    "capital": "Kingston",
+    "region": "oceania"
+  },
+  "Nauru": {
+    "mapPath": "data/map/oceania/nr/vector.svg",
+    "flagCode": "NRU",
+    "capital": "Yaren",
+    "region": "oceania"
+  },
+  "Niue": {
+    "mapPath": "data/map/oceania/nu/vector.svg",
+    "flagCode": "NIU",
+    "capital": "Alofi",
+    "region": "oceania"
+  },
+  "New Zealand": {
+    "mapPath": "data/map/oceania/nz/vector.svg",
+    "flagCode": "NZL",
+    "capital": "Wellington",
+    "region": "oceania"
+  },
+  "French Polynesia": {
+    "mapPath": "data/map/oceania/pf/vector.svg",
+    "flagCode": "PYF",
+    "capital": "Papeete",
+    "region": "oceania"
+  },
+  "Papua New Guinea": {
+    "mapPath": "data/map/oceania/pg/vector.svg",
+    "flagCode": "PNG",
+    "capital": "Port Moresby",
+    "region": "oceania"
+  },
+  "Pitcairn": {
+    "mapPath": "data/map/oceania/pn/vector.svg",
+    "flagCode": "PCN",
+    "capital": "Adamstown",
+    "region": "oceania"
+  },
+  "Palau": {
+    "mapPath": "data/map/oceania/pw/vector.svg",
+    "flagCode": "PLW",
+    "capital": "Ngerulmud",
+    "region": "oceania"
+  },
+  "Solomon Islands": {
+    "mapPath": "data/map/oceania/sb/vector.svg",
+    "flagCode": "SLB",
+    "capital": "Honiara",
+    "region": "oceania"
+  },
+  "Tokelau": {
+    "mapPath": "data/map/oceania/tk/vector.svg",
+    "flagCode": "TKL",
+    "capital": "Fakaofo",
+    "region": "oceania"
+  },
+  "Tonga": {
+    "mapPath": "data/map/oceania/to/vector.svg",
+    "flagCode": "TON",
+    "capital": "Nukuʻalofa",
+    "region": "oceania"
+  },
+  "Vanuatu": {
+    "mapPath": "data/map/oceania/vu/vector.svg",
+    "flagCode": "VUT",
+    "capital": "Port Vila",
+    "region": "oceania"
+  },
+  "Wallis and Futuna": {
+    "mapPath": "data/map/oceania/wf/vector.svg",
+    "flagCode": "WLF",
+    "capital": "Mata Utu",
+    "region": "oceania"
+  },
+  "Samoa": {
+    "mapPath": "data/map/oceania/ws/vector.svg",
+    "flagCode": "WSM",
+    "capital": "Apia",
+    "region": "oceania"
+  }
+}
